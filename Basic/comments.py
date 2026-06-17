@@ -6,3 +6,9 @@ is a
 multiline
 comment
 '''
+
+""" 
+another 
+multiline 
+comment
+"""
