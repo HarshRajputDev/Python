@@ -39,7 +39,7 @@ print("hello\tworld") # horizontal tab
 print(2, 2, 2)
 print("Age:", 10)
 
-# end & sep PARAMETER
+# end & sep PARAMETER (output)
 print("Hello", end=" ")
 print("World")
 print(2, 1, 2, sep="-")
@@ -49,3 +49,8 @@ print("<--")
 #
 print(True)
 print(False)
+
+# input
+fruit = input("fav fruit: ")
+number = int(input(""))
+print(number)
