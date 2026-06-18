@@ -51,6 +51,6 @@ print(True)
 print(False)
 
 # input
-fruit = input("fav fruit: ")
-number = int(input(""))
-print(number)
+nm = input("name: ")
+age = int(input("age: "))
+print(f'Name: {nm}\nAge: {age}')
