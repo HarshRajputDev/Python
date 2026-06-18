@@ -48,3 +48,6 @@ print("A","B", "C", sep="/", end=" ")
 
 print("<--")
 
+#
+print(True)
+print(False)
