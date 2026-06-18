@@ -1,0 +1,50 @@
+# BASIC PRINT STATEMENTS
+print("Hello World")
+print('''A''')
+print("""B""")
+print(1)
+print("one-", 1)
+
+# ARITHMETIC OPERATIONS
+print(1 + 1)
+print(2 - 1)
+print(3 * 2)
+print(8 / 2)
+
+# COMMENTS
+
+# This is a comment
+
+'''
+This is a multiline comment
+t87y8gu
+t6tx6ct
+fyug8ug
+uguugiu
+'''
+
+"""
+another
+multiline
+comment
+"""
+
+print("Hello World")  # inline comment
+
+# ESCAPE SEQUENCE CHARACTERS
+print("Hello Guys!\nHow are you?")  # new line: \n
+print("Hello, \"Harsh\"")  # backslash: \
+print("hello\tworld") # horizontal tab
+
+# MULTIPLE VALUES IN PRINT
+print(2, 2, 2)
+print("Age:", 10)
+
+# end & sep PARAMETER
+print("Hello", end=" ")
+print("World")
+print(2, 1, 2, sep="-")
+print("A","B", "C", sep="/", end=" ")
+
+print("<--")
+
