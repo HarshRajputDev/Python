@@ -3,7 +3,6 @@ print("Hello World")
 print('''A''')
 print("""B""")
 print(1)
-print("one-", 1)
 
 # ARITHMETIC OPERATIONS
 print(1 + 1)
