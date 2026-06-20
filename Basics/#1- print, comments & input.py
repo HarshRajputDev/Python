@@ -54,3 +54,13 @@ print(False)
 nm = input("name: ")
 age = int(input("age: "))
 print(f'Name: {nm}\nAge: {age}')
+
+
+
+##########
+l = 10
+m = 11
+n = 12
+
+l,m,n = 10,11,12
+##########
