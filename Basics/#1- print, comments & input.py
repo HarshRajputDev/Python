@@ -56,7 +56,6 @@ age = int(input("age: "))
 print(f'Name: {nm}\nAge: {age}')
 
 
-
 ##########
 l = 10
 m = 11
@@ -71,3 +70,7 @@ n = 5
 
 l=m=n=5
 #########
+
+_abc = 40
+_iwi2 = 60
+
