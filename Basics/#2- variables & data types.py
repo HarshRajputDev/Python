@@ -31,3 +31,5 @@ print(sets)
 
 dictionary = {"Name": "Harsh", "age": 5, "gender": "male"}
 print(dictionary)
+
+# operators 
